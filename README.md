@@ -17,3 +17,7 @@ Pemain dapat langsung mengontrol karakter dengan memijit tombol-tombol yang tela
 2. Apabila tombol Keyboard "X" ditekan, maka pemain dapat melakukan "dash" yang lebih jauh lagi. Tetapi, pemain harus ingat bahwa "dash" tidak dapat digunakan untuk mengalahkan musuh, sehingga harus dipakai dengan berhati-hati.
 3. Pemain dapat melompat hanya sekali dan hanya ketika pemain telah menyentuh tanah. Namun, hal ini tidak berlaku apabila karakter pemain jatuh; jika karakter pemain jatuh dan belum melompat sebelumnya, pemain dapat melompat.
 4. Pemain tidak dapat mengalahkan musuh dan hanya bisa melewati mereka.
+
+Tampilan Awal
+
+![](Proyek-Akhir-Proglan-1---Kel-15/blob/master/images/Tampilan%20Awal.jpg)
