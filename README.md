@@ -18,6 +18,6 @@ Pemain dapat langsung mengontrol karakter dengan memijit tombol-tombol yang tela
 3. Pemain dapat melompat hanya sekali dan hanya ketika pemain telah menyentuh tanah. Namun, hal ini tidak berlaku apabila karakter pemain jatuh; jika karakter pemain jatuh dan belum melompat sebelumnya, pemain dapat melompat.
 4. Pemain tidak dapat mengalahkan musuh dan hanya bisa melewati mereka.
 
-Tampilan Awal
+### Tampilan Awal
 
-![](Proyek-Akhir-Proglan-1---Kel-15/blob/master/images/Tampilan%20Awal.jpg)
+![](https://github.com/glorypuncuna/Proyek-Akhir-Proglan-1---Kel-15/blob/master/images/Tampilan%20Awal.jpg)
