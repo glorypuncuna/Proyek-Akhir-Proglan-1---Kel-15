@@ -18,6 +18,15 @@ Pemain dapat langsung mengontrol karakter dengan memijit tombol-tombol yang tela
 3. Pemain dapat melompat hanya sekali dan hanya ketika pemain telah menyentuh tanah. Namun, hal ini tidak berlaku apabila karakter pemain jatuh; jika karakter pemain jatuh dan belum melompat sebelumnya, pemain dapat melompat.
 4. Pemain tidak dapat mengalahkan musuh dan hanya bisa melewati mereka.
 
+
+### Cara menjalankan proyek ini
+
+1. Pastikan komputer telah memiliki IDE untuk C. Disarankan menggunakan Code::Blocks.
+2. Unduh semua file yang berada di master dalam bentuk ZIP.
+3. Extract ZIP yang telah di unduh dan simpan di lokasi yang diinginkan.
+4. Buka IDE dan open file. Pilih file "Complex_dnd.cbp".
+5. Setelah semua file berada di dalam workspace sebagai satu project. Pilih Build and Run.
+
 ### Tampilan Awal
 Berikut adalah tampilan awal saat memulai permainan. 
 
@@ -25,4 +34,6 @@ Berikut adalah tampilan awal saat memulai permainan.
 
 ### Tampilan Akhir
 Saat karakter mengenai musuh, game akan berhenti dan memulai tampilan awal.
+
 ![](https://github.com/glorypuncuna/Proyek-Akhir-Proglan-1---Kel-15/blob/master/images/Tampilan%20Akhir.jpg)
+
