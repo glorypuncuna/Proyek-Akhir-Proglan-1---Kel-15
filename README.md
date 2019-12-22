@@ -19,5 +19,10 @@ Pemain dapat langsung mengontrol karakter dengan memijit tombol-tombol yang tela
 4. Pemain tidak dapat mengalahkan musuh dan hanya bisa melewati mereka.
 
 ### Tampilan Awal
+Berikut adalah tampilan awal saat memulai permainan. 
 
 ![](https://github.com/glorypuncuna/Proyek-Akhir-Proglan-1---Kel-15/blob/master/images/Tampilan%20Awal.jpg)
+
+### Tampilan Akhir
+Saat karakter mengenai musuh, game akan berhenti dan memulai tampilan awal.
+![](https://github.com/glorypuncuna/Proyek-Akhir-Proglan-1---Kel-15/blob/master/images/Tampilan%20Akhir.jpg)
